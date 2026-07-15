@@ -1,0 +1,1 @@
+In this project, I created an E-Commerce Sales Dashboard in Microsoft Excel. It helps analyze sales performance by showing total sales, orders, customers, units sold, sales trends, top customers, top brands, category-wise sales, payment methods, and state-wise sales. I used charts, KPI cards, and slicers to make the data easy to understand.
