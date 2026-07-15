@@ -1,0 +1,1 @@
+In this project, I created a Sales Distribution Dashboard in Microsoft Excel to analyze sales data. The dashboard shows total sales, top customers, top products, monthly and weekly sales trends, regional sales distribution, and country-wise sales. I also used KPI cards, charts, maps, and slicers to make the data easy to filter and analyze.
